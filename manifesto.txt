@@ -2,7 +2,7 @@
          MY OPEN SOURCE MANIFESTO                      
 =======================================================
 
-Author : Hardik Agarwal
+Author : NAMAN SHARMA
 Date   : 28 March 2026
 
 -------------------------------------------------------
