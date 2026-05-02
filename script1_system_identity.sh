@@ -1,4 +1,4 @@
-STUDENT_NAME="Hardik Agarwal"
+STUDENT_NAME="Naman Sharma"
 SOFTWARE_CHOICE="Linux Kernel"
 
 KERNEL=$(uname -r)
